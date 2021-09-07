@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-tally-connector",
+  "version": "1.0.0",
+  "description": "A Nodejs connector for Tally",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SahajJain01/nodejs-tally-connector.git"
+  },
+  "author": "sahajjain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SahajJain01/nodejs-tally-connector/issues"
+  },
+  "homepage": "https://github.com/SahajJain01/nodejs-tally-connector#readme",
+  "dependencies": {
+    "http": "0.0.1-security",
+    "xml2js": "^0.4.23"
+  }
+}
